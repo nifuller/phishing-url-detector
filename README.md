@@ -1,7 +1,6 @@
 ## 📈 Progress
 - [x] Downloaded and explored phishing URL dataset
 - [x] Handled class imbalance with balanced class weights
-- [x] Engineered and selected features from URL dataset
 - [x] Trained Decision Tree classifier
 - [x] Trained Random Forest classifier
 - [x] Evaluated models with precision, recall and F1 score
