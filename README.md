@@ -4,10 +4,10 @@
 - [x] Trained Decision Tree classifier
 - [x] Trained Random Forest classifier
 - [x] Evaluated models with precision, recall and F1 score
-- [ ] Extract feature importance
-- [ ] Build confusion matrix visualization
-- [ ] Build feature importance visualization
-- [ ] Build model comparison visualization
+- [x] Extract feature importance
+- [x] Build confusion matrix visualization
+- [x] Build feature importance visualization
+- [x] Build model comparison visualization
 - [ ] Write up findings
 
 
